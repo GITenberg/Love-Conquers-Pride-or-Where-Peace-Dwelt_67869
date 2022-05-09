@@ -1,5 +1,8 @@
 _repo: Love-Conquers-Pride-or-Where-Peace-Dwelt_67869
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67869-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Alex. McVeigh, Mrs.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35103
     wikipedia: https://en.wikipedia.org/wiki/Mittie_Frances_Clarke_Point
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67869#Love-Conquers-Pride-or-Where-Peace-Dwelt
 gutenberg_issued: '2022-04-18'
 identifiers:
   gutenberg: '67869'
